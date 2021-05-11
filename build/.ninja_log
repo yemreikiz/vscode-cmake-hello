@@ -1,5 +1,0 @@
-# ninja log v5
-1	567	6424270391204926	hello/CMakeFiles/hello.dir/src/hello.cpp.obj	8c0807b0990dd6c8
-568	637	6424270391893091	hello/hello.lib	5ae3d9d0d3bea630
-4	770	6424270393229529	apps/CMakeFiles/main.dir/main.cpp.obj	73aa148cbd0f9330
-770	1043	6424270395875386	apps/main.exe	11b1ae765a94d2c2

@@ -1,8 +1,0 @@
-C:/Users/yunus/Desktop/Projects/vscode-cmake-hello/build/CMakeFiles/edit_cache.dir
-C:/Users/yunus/Desktop/Projects/vscode-cmake-hello/build/CMakeFiles/rebuild_cache.dir
-C:/Users/yunus/Desktop/Projects/vscode-cmake-hello/build/hello/CMakeFiles/hello.dir
-C:/Users/yunus/Desktop/Projects/vscode-cmake-hello/build/hello/CMakeFiles/edit_cache.dir
-C:/Users/yunus/Desktop/Projects/vscode-cmake-hello/build/hello/CMakeFiles/rebuild_cache.dir
-C:/Users/yunus/Desktop/Projects/vscode-cmake-hello/build/apps/CMakeFiles/edit_cache.dir
-C:/Users/yunus/Desktop/Projects/vscode-cmake-hello/build/apps/CMakeFiles/main.dir
-C:/Users/yunus/Desktop/Projects/vscode-cmake-hello/build/apps/CMakeFiles/rebuild_cache.dir
