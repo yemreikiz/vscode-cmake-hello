@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/yunus/Desktop/Projects/vscode-cmake-hello/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\BUILDT~1\\VC\\Tools\\MSVC\\1428~1.299\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP -I..\\hello\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++latest /Fohello\\CMakeFiles\\hello.dir\\src\\hello.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\yunus\\Desktop\\Projects\\vscode-cmake-hello\\hello\\src\\hello.cpp",
+  "file": "C:/Users/yunus/Desktop/Projects/vscode-cmake-hello/hello/src/hello.cpp"
+},
+{
+  "directory": "C:/Users/yunus/Desktop/Projects/vscode-cmake-hello/build",
+  "command": "C:\\PROGRA~2\\MICROS~3\\2019\\BUILDT~1\\VC\\Tools\\MSVC\\1428~1.299\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP -I..\\hello\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++latest /Foapps\\CMakeFiles\\main.dir\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\yunus\\Desktop\\Projects\\vscode-cmake-hello\\apps\\main.cpp",
+  "file": "C:/Users/yunus/Desktop/Projects/vscode-cmake-hello/apps/main.cpp"
+}
+]
